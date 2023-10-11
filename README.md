@@ -1,1 +1,1 @@
-# Sum-of2-Numbers-using-lamda-expression-in-java
+# Sum-of-2-Numbers-using-lamda-expression-in-java
